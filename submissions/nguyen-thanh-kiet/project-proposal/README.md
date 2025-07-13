@@ -30,10 +30,6 @@ The financial implications of inadequate DR planning are substantial:
 - **Compliance penalties**: $125,000 average penalty for audit failures
 - **Annual waste**: $156,000 in inefficient manual processes per organization
 
-### Market Opportunity
-
-The serverless DR market represents a **$2.8B opportunity by 2025**, with 34% CAGR growth and 78% of Fortune 500 companies actively seeking integrated DR solutions. Organizations implementing comprehensive DR capabilities achieve 89% higher customer retention rates and can command 23% price premiums for DR-assured services.
-
 ## Technical Solution Architecture
 
 ### Comprehensive AWS Service Integration
