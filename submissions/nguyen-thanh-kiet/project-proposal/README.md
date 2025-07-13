@@ -1,5 +1,5 @@
 # Serverless Backup and Disaster Recovery Solution
-## Intermediate Project: Multi-tier automated backup system with microservices architecture
+## Multi-tier automated backup system with microservices architecture
 
 ---
 
@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This comprehensive proposal outlines the development of an intermediate-level **Serverless Backup and Disaster Recovery (DR) Solution** designed to address critical gaps in modern enterprise serverless application protection. The project represents a strategic initiative to build a production-ready, automated backup and recovery system using AWS-native services, demonstrating advanced cloud engineering capabilities through practical implementation of 12+ integrated AWS services.
+This comprehensive proposal outlines the development of **Serverless Backup and Disaster Recovery (DR) Solution** designed to address critical gaps in modern enterprise serverless application protection. The project represents a strategic initiative to build a production-ready, automated backup and recovery system using AWS-native services, demonstrating advanced cloud engineering capabilities through practical implementation of 12+ integrated AWS services.
 
 The solution addresses a significant market need, as **78% of organizations** adopting serverless architectures lack comprehensive backup and disaster recovery strategies, creating substantial business risks valued at **$1.56 trillion annually** in potential revenue exposure. This project delivers a complete, enterprise-grade solution that transforms manual, error-prone backup processes into an automated, reliable, and cost-optimized system.
 
@@ -322,7 +322,7 @@ Modern enterprises are rapidly adopting serverless architectures, with **65% of 
 
 The Serverless Backup and DR solution implements a multi-layered architecture using AWS-native services to provide automated backup, state management, and recovery capabilities. The solution follows the AWS Well-Architected Framework principles with emphasis on reliability, security, and cost optimization.
 
-## AWS Services Used (5+ Services - Intermediate Level)
+## AWS Services Used (5+ Services)
 
 ### Core Application Services
 - **API Gateway:** RESTful API routing and management
@@ -460,7 +460,7 @@ The Serverless Backup and DR solution implements a multi-layered architecture us
 - Simple dashboard
 - Operational runbook
 
-## Intermediate Technical Requirements
+## Technical Requirements
 
 ### Compute Requirements
 - **Lambda Functions:** 8-10 microservice functions with 256MB-1GB memory
@@ -564,7 +564,7 @@ serverless-backup-dr/
 
 # 4. Timeline & Milestones
 
-## Intermediate Project Timeline (10 Weeks)
+## Project Timeline (10 Weeks)
 
 ### Week 1-2: Infrastructure Foundation
 **Week 1:**
@@ -700,7 +700,7 @@ serverless-backup-dr/
 | CloudWatch Logs | Extended retention | $2.00 |
 | **Paid Services Total** | | **$3.57** |
 
-**Total Monthly Cost: ~$85 (intermediate project budget)**
+**Total Monthly Cost: ~$85 (project budget)**
 
 ## Student Time Investment
 
